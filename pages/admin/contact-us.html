@@ -1,0 +1,37 @@
+{% extends 'admin/base.html' %}
+{% load static %}
+{% block title %}page title{% endblock title %}
+{% block body %}
+
+<div class="main-content">
+		
+		{% include 'admin/sidebar.html' %}
+		{% include 'admin/header.html' %}
+		
+		<!-- main content start-->
+		<div id="page-wrapper">
+			<div class="main-page">
+				<div class="forms">
+					<h3 class="title1">Update Contact Us</h3>
+					<div class="form-grids row widget-shadow" data-example-id="basic-forms"> 
+						<div class="form-title">
+							<h4>Update Contact Us:</h4>
+						</div>
+						<div class="form-body">
+							<form method="post">
+								<p style="font-size:16px; color:red" align="center"></p>
+							 <div class="form-group"> <label for="exampleInputEmail1">Page Title</label> <input type="text" class="form-control" name="pagetitle" id="pagetitle" value="" required="true"> </div><div class="form-group"> <label for="exampleInputEmail1">Email</label> <input type="text" class="form-control" name="email" id="email" value="" required="true"> </div><div class="form-group"> <label for="exampleInputEmail1">Mobile Number</label> <input type="text" class="form-control" name="mobnumber" id="mobnumber" value="" required="true"> </div><div class="form-group"> <label for="exampleInputEmail1">Timing</label> <input type="text" class="form-control" name="timing" id="timing" value="" required="true"> </div> <div class="form-group"> <label for="exampleInputPassword1">Page Description</label> <textarea name="pagedes" id="pagedes" rows="5" class="form-control"></textarea> </div>
+							  <button type="submit" name="submit" class="btn btn-default">Update</button> </form> 
+						</div>
+						
+					</div>
+				
+				
+			</div>
+		</div>
+		
+		<!--footer-->
+		{% include 'admin/footer.html' %}
+        <!--//footer-->
+	</div>
+{% endblock body %}

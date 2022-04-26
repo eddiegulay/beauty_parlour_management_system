@@ -1,0 +1,86 @@
+{% extends 'guest/index.html' %} {% load static %} {%block body%} 
+{% include "guest/header.html" %}
+<section
+  class="hero-wrap hero-wrap-2"
+  style="background-image: url({% static 'guest/images/bg-2.jpg'%})"
+  data-stellar-background-ratio="0.5"
+>
+  <div class="overlay"></div>
+  <div class="container">
+    <div
+      class="row no-gutters slider-text js-fullheight align-items-end justify-content-center"
+    >
+      <div class="col-md-9 ftco-animate pb-5">
+        <h2 class="mb-0 bread">Services</h2>
+        <p class="breadcrumbs">
+          <span class="mr-2"
+            ><a href="/home">Home <i class="ion-ios-arrow-forward"></i></a
+          ></span>
+          <span>Services <i class="ion-ios-arrow-forward"></i></span>
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="ftco-section ftco-pricing">
+  <div class="container">
+    <div class="row justify-content-center pb-3">
+      <div class="col-md-10 heading-section text-center ftco-animate">
+        <h1 class="big">Pricing</h1>
+        <span class="subheading">Pricing</span>
+        <h2 class="mb-4">Our Service Prices</h2>
+        <p>
+          {%for para in marketing%}
+              {{para.service_details}}
+          {%endfor%}
+        </p>
+      </div>
+    </div>
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Service Name</th>
+          <th>Service Price</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        {%for data in services %}
+        <tr>
+          <td>{{data.id}}</td>
+          <th>{{data.ServiceName}}</th>
+          <th>{{data.Cost}}</th>
+        </tr>
+        {%endfor%}
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- loader -->
+<div id="ftco-loader" class="show fullscreen">
+  <svg class="circular" width="48px" height="48px">
+    <circle
+      class="path-bg"
+      cx="24"
+      cy="24"
+      r="22"
+      fill="none"
+      stroke-width="4"
+      stroke="#eeeeee"
+    />
+    <circle
+      class="path"
+      cx="24"
+      cy="24"
+      r="22"
+      fill="none"
+      stroke-width="4"
+      stroke-miterlimit="10"
+      stroke="#F96D00"
+    />
+  </svg>
+</div>
+{%include 'guest/footer.html'%} {%include 'guest/scripts.html'%} {% endblock %}

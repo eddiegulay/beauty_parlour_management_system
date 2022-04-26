@@ -1,0 +1,85 @@
+  <div class=" sidebar" role="navigation">
+            <div class="navbar-collapse">
+        <nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left" id="cbp-spmenu-s1">
+          <ul class="nav" id="side-menu">
+            <li>
+              <a href="{% url 'dashboard' %}"><i class="fa fa-home nav_icon"></i>Dashboard</a>
+            </li>
+            <li>
+              <a href="{% url 'add-service' %}"><i class="fa fa-cogs nav_icon"></i>Services<span class="fa arrow"></span> </a>
+              <ul class="nav nav-second-level collapse">
+                <li>
+                  <a href="{% url 'add-service' %}">Add Services</a>
+                </li>
+                <li>
+                  <a href="{% url 'manage-service' %}">Manage Services</a>
+                </li>
+              </ul>
+              <!-- /nav-second-level -->
+            </li>
+            <li class="">
+              <a href="{% url 'about-us' %}"><i class="fa fa-book nav_icon"></i>Pages <span class="fa arrow"></span></a>
+              <ul class="nav nav-second-level collapse">
+                <li>
+                  <a href="{% url 'about-us' %}">About Us</a>
+                </li>
+                <li>
+                  <a href="{% url 'contact-us' %}">Contact Us</a>
+                </li>
+              </ul>
+              <!-- /nav-second-level -->
+            </li>
+          
+            <li>
+              <a href="{% url 'all-appointment' %}"><i class="fa fa-check-square-o nav_icon"></i>Appointment<span class="fa arrow"></span></a>
+              <ul class="nav nav-second-level collapse">
+                <li>
+                  <a href="{% url 'all-appointment' %}">All Appointment</a>
+                </li>
+                <li>
+                  <a href="{% url 'new-appointment' %}">New Appointment</a>
+                </li>
+                <li>
+                  <a href="{% url 'accepted-appointment' %}">Accepted Appointment</a>
+                </li>
+                <li>
+                  <a href="{% url 'rejected-appointment' %}">Rejected Appointment</a>
+                </li>
+              </ul>
+              <!-- //nav-second-level -->
+            </li>
+           
+        
+            <li>
+              <a href="{% url 'add-customer' %}" class="chart-nav"><i class="fa fa-user nav_icon"></i>Add Customer</a>
+            </li>
+             <li>
+              <a href="{% url 'all-customer' %}" class="chart-nav"><i class="fa fa-users nav_icon"></i>Customer List</a>
+            </li>
+              <li>
+              <a href="#"><i class="fa fa-check-square-o nav_icon"></i>Reports<span class="fa arrow"></span></a>
+              <ul class="nav nav-second-level collapse">
+                 <li><a href=" {% url 'bw-dates' %}"> B/w dates</a></li>
+                   
+                    <li><a href="{% url 'bw-dates-report' %}">Sales Reports</a></li>
+              </ul>
+              <!-- //nav-second-level -->
+            </li>
+
+    <li>
+              <a href="{% url 'invoice' %}" class="chart-nav"><i class="fa fa-file-text-o nav_icon"></i>Invoices</a>
+            </li>
+            <li>
+              <a href="{% url 'search-appointment' %}" class="chart-nav"><i class="fa fa-search nav_icon"></i>Search Appointment</a>
+            </li>
+            <li>
+              <a href="{% url 'search-invoice' %}" class="chart-nav"><i class="fa fa-search nav_icon"></i>Search Invoice</a>
+            </li>
+          
+
+          </ul>
+          <div class="clearfix"> </div>
+          <!-- //sidebar-collapse -->
+        </nav>
+      </div>
+    </div>

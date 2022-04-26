@@ -1,0 +1,49 @@
+{% extends 'admin/base.html' %}
+{% load static %}
+{% block title %}page title{% endblock title %}
+{% block body %}
+
+<div class="main-content">
+		
+		{% include 'admin/sidebar.html' %}
+		{% include 'admin/header.html' %}
+		
+		<!-- main content start-->
+		<div id="page-wrapper">
+			<div class="main-page">
+				<div class="tables">
+					<h3 class="title1">Manage Services</h3>
+					
+					
+				
+					<div class="table-responsive bs-example widget-shadow">
+						<h4>Update Services:</h4>
+						<table class="table table-bordered"> 
+							<thead>
+								<tr>
+									<th>#</th> 
+									<th>Service Name</th> 
+									<th>Service Price</th> 
+									<th>Creation Date</th>
+									<th>Action</th> 
+								</tr> 
+							</thead>
+							<tbody>
+						    	<tr> 
+									<th scope="row"></th> 
+									<td>Hair Cut</td> 
+									<td>25000</td>
+									<td>jun 21,2022</td>
+									<td><a href="{% url 'edit-service' %}">Edit</a></td>
+								</tr>
+						    </tbody> 
+						</table> 
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--footer-->
+		{% include 'admin/footer.html' %}
+        <!--//footer-->
+	</div>
+{% endblock body %}

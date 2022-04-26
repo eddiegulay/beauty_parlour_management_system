@@ -1,0 +1,141 @@
+{% extends 'guest/index.html' %}
+{% load static %}
+
+{%block body%}
+{% include "guest/header.html" %}
+<section id="home-section" class="hero" style="background-image: url({%static 'guest/images/bg.jpg' %});" data-stellar-background-ratio="0.5">
+    <div class="home-slider owl-carousel">
+    <div class="slider-item js-fullheight">
+        <div class="overlay"></div>
+      <div class="container-fluid p-0">
+        <div class="row d-md-flex no-gutters slider-text align-items-end justify-content-end" data-scrollax-parent="true">
+            <img class="one-third align-self-end order-md-last img-fluid" src="{% static 'guest/images/bg_1.png' %}" alt="">
+            <div class="one-forth d-flex align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
+                <div class="text mt-5">
+                    <span class="subheading">Beauty Parlour</span>
+                    <h1 class="mb-4">
+                      {%for para in marketing%}
+                      {{para.front_title_two}}
+                      {%endfor%}
+                    </h1>
+                    <p class="mb-4">
+                      {%for para in marketing%}
+                      {{para.front_two}}
+                      {%endfor%}
+                    </p>
+                 
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+
+    <div class="slider-item js-fullheight">
+        <div class="overlay"></div>
+      <div class="container-fluid p-0">
+        <div class="row d-flex no-gutters slider-text align-items-center justify-content-end" data-scrollax-parent="true">
+            <img class="one-third align-self-end order-md-last img-fluid" src="{% static 'guest/images/bg_2.png' %}" alt="">
+            <div class="one-forth d-flex align-items-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
+                <div class="text mt-5">
+                    <span class="subheading">Natural Beauty</span>
+                  <h1 class="mb-4">
+                    {%for para in marketing%}
+                    {{para.front_title_one}}
+                    {%endfor%}
+                  </h1>
+                  <p class="mb-4">
+                    {%for para in marketing%}
+                    {{para.front_one}}
+                    {%endfor%}
+                  </p>
+                  
+                 
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<br>
+<section class="ftco-section ftco-no-pt ftco-booking">
+  <div class="container-fluid px-0">
+      <div class="row no-gutters d-md-flex justify-content-end">
+          <div class="one-forth d-flex align-items-end">
+              <div class="text">
+                  <div class="overlay"></div>
+                  <div class="appointment-wrap">
+                      <span class="subheading">Sign Up</span>
+                          <h3 class="mb-2">Create New Account</h3>
+                  <form method="post" class="appointment-form">
+                    {% csrf_token %}
+                    <div class="row">
+                      <div class="col-sm-12">
+                        <div class="form-group">
+                              <input type="text" class="form-control" id="name" placeholder="User Name" name="name" required="true" >
+                            </div>
+                      </div>
+                      <div class="col-sm-12">
+                        <div class="form-group">
+                              <input type="email" class="form-control" id="appointment_email" placeholder="Email" name="email" required="true">
+                        </div>
+                      </div>
+
+                      <div class="col-sm-12">
+                        <div class="form-group">
+                          <input type="text" class="form-control" id="phone" name="phone" placeholder="Phone" required="true" maxlength="10" pattern="[0-9]+">
+                        </div>
+                      </div>
+
+                        <div class="col-sm-12">
+                        <div class="form-group">
+                            <input type="password" class="form-control" id="pswd1" name="pswd1" placeholder="password" required="true" maxlength="10" >
+                        </div>
+                        </div>
+
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <input type="password" class="form-control" id="pswd2" name="pswd2" placeholder=" Confirm password" required="true" maxlength="10" >
+                            </div>
+                            </div>
+
+                      </div>
+
+
+
+                      <div class="form-group">
+                      <input type="submit" id="endPointSubmit" name="submit" value="Provide information" class="btn btn-primary">
+                      <a href="{% url 'dashboard' %} " class="form-group">Dashboard</a>
+                    </div>
+                  </form>
+            </div>
+                  </div>
+          </div>
+              <div class="one-third">
+                  <div class="img" style="background-image: url({%static 'guest/images/bg-1.jpg' %});">
+                  </div>
+              </div>
+      </div>
+  </div>
+</section>
+
+  
+  <br>
+
+
+<!-- loader -->
+<div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+
+{%include 'guest/scripts.html'%}
+<script>
+    getById("pswd2").oninput = ()=>{
+        if(getById("pswd1").value.length >= 8 && getById("pswd2").value == getById("pswd1").value){
+            getById("endPointSubmit").value = "Add Customer";
+        }else{
+            getById("endPointSubmit").value = "Provide information";
+        }
+    }
+</script>
+{% endblock %} 

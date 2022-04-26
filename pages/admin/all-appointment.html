@@ -1,0 +1,53 @@
+{% extends 'admin/base.html' %}
+{% load static %}
+{% block title %}page title{% endblock title %}
+{% block body %}
+
+<div class="main-content">
+		
+		{% include 'admin/sidebar.html' %}
+		{% include 'admin/header.html' %}
+		
+		<!-- main content start-->
+		<div id="page-wrapper">
+			<div class="main-page">
+				<div class="tables">
+					<h3 class="title1">All Appointment</h3>
+					
+					
+				
+					<div class="table-responsive bs-example widget-shadow">
+						<h4>All Appointment:</h4>
+						<table class="table table-bordered"> 
+							<thead> 
+								<tr> 
+									<th>#</th> 
+									<th> Appointment Number</th> 
+									<th>Name</th>
+									<th>Mobile Number</th> 
+									<th>Appointment Date</th>
+									<th>Appointment Time</th>
+									<th>Action</th> 
+								</tr> 
+							</thead> 
+							<tbody>
+								<tr> 
+									<th scope="row"></th> 
+									<td></td> 
+									<td></td>
+									<td></td>
+									<td></td> 
+									<td></td> 
+									<td><a href="{% url 'view-appointment' %}">View</a></td> 
+								</tr>
+							</tbody> 
+						</table> 
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--footer-->
+		{% include 'admin/footer.html' %}
+        <!--//footer-->
+	</div>
+{% endblock body %}

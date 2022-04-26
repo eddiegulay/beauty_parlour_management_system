@@ -1,0 +1,134 @@
+{% extends 'admin/base.html' %}
+{% load static %}
+{% block title %}page title{% endblock title %}
+{% block body %}
+
+<div class="main-content">
+		
+		{% include 'admin/sidebar.html' %}
+		{% include 'admin/header.html' %}
+		
+		<!-- main content start-->
+		<div id="page-wrapper" class="row calender widget-shadow">
+			<div class="main-page">
+				
+			
+				<div class="row calender widget-shadow">
+					<div class="row-one">
+					<div class="col-md-4 widget">
+						<div class="stats-left ">
+							<h5>Total</h5>
+							<h4>Customer</h4>
+						</div>
+						<div class="stats-right">
+							<label> {{customers}} </label>
+						</div>
+						<div class="clearfix"> </div>	
+					</div>
+					<div class="col-md-4 widget states-mdl">
+						<div class="stats-left">
+							<h5>Total</h5>
+							<h4>Appointment</h4>
+						</div>
+						<div class="stats-right">
+							<label> {{appointmments}} </label>
+						</div>
+						<div class="clearfix"> </div>	
+					</div>
+					<div class="col-md-4 widget states-last">
+						<div class="stats-left">
+							<h5>Total</h5>
+							<h4>Accepted</h4>
+						</div>
+						<div class="stats-right">
+							<label>{{accepted}}</label>
+						</div>
+						<div class="clearfix"> </div>	
+					</div>
+					<div class="clearfix"> </div>	
+				</div>
+						
+					</div>
+
+				<div class="row calender widget-shadow">
+					<div class="row-one">
+					<div class="col-md-4 widget">
+						<div class="stats-left ">
+							<h5>Total</h5>
+							<h4>Rejected</h4>
+						</div>
+						<div class="stats-right">
+							<label> {{rejects}} </label>
+						</div>
+						<div class="clearfix"> </div>	
+					</div>
+					<div class="col-md-4 widget states-mdl">
+						<div class="stats-left">
+							<h5>Total</h5>
+							<h4>Services</h4>
+						</div>
+						<div class="stats-right">
+							<label> {{services}} </label>
+						</div>
+						<div class="clearfix"> </div>	
+					</div>
+					<div class="col-md-4 widget states-last">
+						<div class="stats-left">
+							<h5>Today</h5>
+							<h4>Sales</h4>
+						</div>
+						<div class="stats-right">
+							<label> 45 </label>
+						</div>
+						<div class="clearfix"> </div>	
+					</div>
+					<div class="clearfix"> </div>	
+				</div>
+						
+					</div>
+
+				<div class="row calender widget-shadow">
+					<div class="row-one">
+					<div class="col-md-4 widget">
+						<div class="stats-left ">
+							<h5>Yesterday</h5>
+							<h4>Sales</h4>
+						</div>
+						<div class="stats-right">
+							<label>13</label>
+						</div>
+						<div class="clearfix"> </div>	
+					</div>
+					<div class="col-md-4 widget states-mdl">
+						<div class="stats-left">
+							<h5>Last Sevendays</h5>
+							<h4>Sale</h4>
+						</div>
+						<div class="stats-right">
+							<label>12</label>
+						</div>
+						<div class="clearfix"> </div>	
+					</div>
+					<div class="col-md-4 widget states-last">
+						<div class="stats-left">
+							<h5>Total</h5>
+							<h4>Sales</h4>
+						</div>
+						<div class="stats-right">
+							<label>14</label>
+						</div>
+						<div class="clearfix"> </div>	
+					</div>
+					<div class="clearfix"> </div>	
+				</div>
+						
+					</div>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+		<!--footer-->
+		{% include 'admin/footer.html' %}
+        <!--//footer-->
+	</div>
+{% endblock body %}

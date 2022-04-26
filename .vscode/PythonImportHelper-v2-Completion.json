@@ -1,0 +1,1301 @@
+[
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "add_customer",
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "isExtraImport": true,
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_service_view",
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "isExtraImport": true,
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "adminPanel_view",
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "isExtraImport": true,
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "all_customer",
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "isExtraImport": true,
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "appointment_accepted_view",
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "isExtraImport": true,
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "appointment_all_view",
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "isExtraImport": true,
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "appointment_new_view",
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "isExtraImport": true,
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "appointment_search_view",
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "isExtraImport": true,
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "appointment_rejected_view",
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "isExtraImport": true,
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "appointment_viewApt_view",
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "isExtraImport": true,
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "bw_dates",
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "isExtraImport": true,
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "bw_dates_report",
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "isExtraImport": true,
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "dashboard_view",
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "isExtraImport": true,
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "edit_service_view",
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "isExtraImport": true,
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "invoice_search_view",
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "isExtraImport": true,
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "invoice_view",
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "isExtraImport": true,
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "manage_service_view",
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "isExtraImport": true,
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "pages_about_us_view",
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "isExtraImport": true,
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "pages_contact_us_view",
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "isExtraImport": true,
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "Appointment",
+        "importPath": "guest.models",
+        "description": "guest.models",
+        "isExtraImport": true,
+        "detail": "guest.models",
+        "documentation": {}
+    },
+    {
+        "label": "Customer",
+        "importPath": "guest.models",
+        "description": "guest.models",
+        "isExtraImport": true,
+        "detail": "guest.models",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "guest.models",
+        "description": "guest.models",
+        "isExtraImport": true,
+        "detail": "guest.models",
+        "documentation": {}
+    },
+    {
+        "label": "Customer",
+        "importPath": "guest.models",
+        "description": "guest.models",
+        "isExtraImport": true,
+        "detail": "guest.models",
+        "documentation": {}
+    },
+    {
+        "label": "create_customer",
+        "importPath": "guest.views",
+        "description": "guest.views",
+        "isExtraImport": true,
+        "detail": "guest.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_page_details",
+        "importPath": "guest.views",
+        "description": "guest.views",
+        "isExtraImport": true,
+        "detail": "guest.views",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "AdminpanelConfig",
+        "kind": 6,
+        "importPath": "adminPanel.apps",
+        "description": "adminPanel.apps",
+        "peekOfCode": "class AdminpanelConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'adminPanel'",
+        "detail": "adminPanel.apps",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "adminPanel.urls",
+        "description": "adminPanel.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', adminPanel_view),\n    path('dashboard/', dashboard_view, name = 'dashboard'),\n    path('add-service/', add_service_view, name = 'add-service'),\n    path('manage-service/',manage_service_view , name = 'manage-service'),\n    path('edit-service/', edit_service_view, name = 'edit-service'),\n    path('about-us/', pages_about_us_view, name = 'about-us'),\n    path('contact-us/', pages_contact_us_view, name = 'contact-us'),\n    path('all-appointment/', appointment_all_view, name = 'all-appointment'),\n    path('view-appointment/', appointment_viewApt_view, name='view-appointment'),",
+        "detail": "adminPanel.urls",
+        "documentation": {}
+    },
+    {
+        "label": "adminPanel_view",
+        "kind": 2,
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "peekOfCode": "def adminPanel_view(request):\n    if request.POST:\n        name = request.POST[\"username\"]\n        pswd = request.POST[\"password\"]\n        usr = authenticate(request, username = name, password = pswd)\n        if usr is not None:\n            login(request, usr)\n            return redirect(\"/adminPanel/dashboard\")\n        else:\n            print(\"*****Wrong vals******\")",
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "dashboard_view",
+        "kind": 2,
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "peekOfCode": "def dashboard_view(request):\n    customer = Customer.objects.all()\n    customers = len(customer)\n    appointmment = Appointment.objects.all()\n    appointmments = len(appointmment)\n    accepted = Appointment.objects.filter(accepted = True)\n    accptd = len(accepted)\n    rejected = Appointment.objects.filter(accepted = False)\n    rejects = len(rejected)\n    service = Service.objects.all()",
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_service_view",
+        "kind": 2,
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "peekOfCode": "def add_service_view(request):\n    return render(request, 'admin/add-services.html')\ndef manage_service_view(request):\n    return render(request, 'admin/manage-services.html')\ndef edit_service_view(request):\n    return render(request, 'admin/edit-services.html')\ndef pages_about_us_view(request):\n    return render(request, 'admin/about-us.html')\ndef pages_contact_us_view(request):\n    return render(request, 'admin/contact-us.html')",
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "manage_service_view",
+        "kind": 2,
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "peekOfCode": "def manage_service_view(request):\n    return render(request, 'admin/manage-services.html')\ndef edit_service_view(request):\n    return render(request, 'admin/edit-services.html')\ndef pages_about_us_view(request):\n    return render(request, 'admin/about-us.html')\ndef pages_contact_us_view(request):\n    return render(request, 'admin/contact-us.html')\ndef appointment_all_view(request):\n    return render(request, 'admin/all-appointment.html')",
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "edit_service_view",
+        "kind": 2,
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "peekOfCode": "def edit_service_view(request):\n    return render(request, 'admin/edit-services.html')\ndef pages_about_us_view(request):\n    return render(request, 'admin/about-us.html')\ndef pages_contact_us_view(request):\n    return render(request, 'admin/contact-us.html')\ndef appointment_all_view(request):\n    return render(request, 'admin/all-appointment.html')\ndef appointment_viewApt_view(request):\n    return render(request, 'admin/view-appointment.html')",
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "pages_about_us_view",
+        "kind": 2,
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "peekOfCode": "def pages_about_us_view(request):\n    return render(request, 'admin/about-us.html')\ndef pages_contact_us_view(request):\n    return render(request, 'admin/contact-us.html')\ndef appointment_all_view(request):\n    return render(request, 'admin/all-appointment.html')\ndef appointment_viewApt_view(request):\n    return render(request, 'admin/view-appointment.html')\ndef appointment_new_view(request):\n    return render(request, 'admin/new-appointment.html')",
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "pages_contact_us_view",
+        "kind": 2,
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "peekOfCode": "def pages_contact_us_view(request):\n    return render(request, 'admin/contact-us.html')\ndef appointment_all_view(request):\n    return render(request, 'admin/all-appointment.html')\ndef appointment_viewApt_view(request):\n    return render(request, 'admin/view-appointment.html')\ndef appointment_new_view(request):\n    return render(request, 'admin/new-appointment.html')\ndef appointment_accepted_view(request):\n    return render(request, 'admin/accepted-appointment.html')",
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "appointment_all_view",
+        "kind": 2,
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "peekOfCode": "def appointment_all_view(request):\n    return render(request, 'admin/all-appointment.html')\ndef appointment_viewApt_view(request):\n    return render(request, 'admin/view-appointment.html')\ndef appointment_new_view(request):\n    return render(request, 'admin/new-appointment.html')\ndef appointment_accepted_view(request):\n    return render(request, 'admin/accepted-appointment.html')\ndef appointment_rejected_view(request):\n    return render(request, 'admin/rejected-appointment.html')",
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "appointment_viewApt_view",
+        "kind": 2,
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "peekOfCode": "def appointment_viewApt_view(request):\n    return render(request, 'admin/view-appointment.html')\ndef appointment_new_view(request):\n    return render(request, 'admin/new-appointment.html')\ndef appointment_accepted_view(request):\n    return render(request, 'admin/accepted-appointment.html')\ndef appointment_rejected_view(request):\n    return render(request, 'admin/rejected-appointment.html')\ndef add_customer(request):\n    if request.POST:",
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "appointment_new_view",
+        "kind": 2,
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "peekOfCode": "def appointment_new_view(request):\n    return render(request, 'admin/new-appointment.html')\ndef appointment_accepted_view(request):\n    return render(request, 'admin/accepted-appointment.html')\ndef appointment_rejected_view(request):\n    return render(request, 'admin/rejected-appointment.html')\ndef add_customer(request):\n    if request.POST:\n        usr_name = request.POST['name']\n        usr_email = request.POST['email']",
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "appointment_accepted_view",
+        "kind": 2,
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "peekOfCode": "def appointment_accepted_view(request):\n    return render(request, 'admin/accepted-appointment.html')\ndef appointment_rejected_view(request):\n    return render(request, 'admin/rejected-appointment.html')\ndef add_customer(request):\n    if request.POST:\n        usr_name = request.POST['name']\n        usr_email = request.POST['email']\n        usr_phone = request.POST['phone']\n        usr_pass = request.POST['pswd1']",
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "appointment_rejected_view",
+        "kind": 2,
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "peekOfCode": "def appointment_rejected_view(request):\n    return render(request, 'admin/rejected-appointment.html')\ndef add_customer(request):\n    if request.POST:\n        usr_name = request.POST['name']\n        usr_email = request.POST['email']\n        usr_phone = request.POST['phone']\n        usr_pass = request.POST['pswd1']\n        create_customer(usr_name, usr_email, usr_phone, usr_pass)\n    context = {",
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_customer",
+        "kind": 2,
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "peekOfCode": "def add_customer(request):\n    if request.POST:\n        usr_name = request.POST['name']\n        usr_email = request.POST['email']\n        usr_phone = request.POST['phone']\n        usr_pass = request.POST['pswd1']\n        create_customer(usr_name, usr_email, usr_phone, usr_pass)\n    context = {\n        'marketing': get_page_details(),\n        'showNav': True",
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "all_customer",
+        "kind": 2,
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "peekOfCode": "def all_customer(request):\n    return render(request, \"admin/customer-list.html\")\ndef bw_dates(request):\n    return render(request, \"admin/bwdates-reports-ds.html\")\ndef bw_dates_report(request):\n    return render(request, 'admin/bwdates-reports-details.html')\ndef invoice_view(request):\n    return render(request, 'admin/invoices.html')\ndef invoice_search_view(request):\n    return render(request, 'admin/search-invoices.html')",
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "bw_dates",
+        "kind": 2,
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "peekOfCode": "def bw_dates(request):\n    return render(request, \"admin/bwdates-reports-ds.html\")\ndef bw_dates_report(request):\n    return render(request, 'admin/bwdates-reports-details.html')\ndef invoice_view(request):\n    return render(request, 'admin/invoices.html')\ndef invoice_search_view(request):\n    return render(request, 'admin/search-invoices.html')\ndef appointment_search_view(request):\n    return render(request, 'admin/search-invoices.html')",
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "bw_dates_report",
+        "kind": 2,
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "peekOfCode": "def bw_dates_report(request):\n    return render(request, 'admin/bwdates-reports-details.html')\ndef invoice_view(request):\n    return render(request, 'admin/invoices.html')\ndef invoice_search_view(request):\n    return render(request, 'admin/search-invoices.html')\ndef appointment_search_view(request):\n    return render(request, 'admin/search-invoices.html')",
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "invoice_view",
+        "kind": 2,
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "peekOfCode": "def invoice_view(request):\n    return render(request, 'admin/invoices.html')\ndef invoice_search_view(request):\n    return render(request, 'admin/search-invoices.html')\ndef appointment_search_view(request):\n    return render(request, 'admin/search-invoices.html')",
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "invoice_search_view",
+        "kind": 2,
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "peekOfCode": "def invoice_search_view(request):\n    return render(request, 'admin/search-invoices.html')\ndef appointment_search_view(request):\n    return render(request, 'admin/search-invoices.html')",
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "appointment_search_view",
+        "kind": 2,
+        "importPath": "adminPanel.views",
+        "description": "adminPanel.views",
+        "peekOfCode": "def appointment_search_view(request):\n    return render(request, 'admin/search-invoices.html')",
+        "detail": "adminPanel.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "bpms.asgi",
+        "description": "bpms.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "bpms.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "bpms.settings",
+        "description": "bpms.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-a^%pj_!+$2(2)iou-(c807(%owcie47%055nx=4ip4-l3tacuc'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "bpms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "bpms.settings",
+        "description": "bpms.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-a^%pj_!+$2(2)iou-(c807(%owcie47%055nx=4ip4-l3tacuc'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "bpms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "bpms.settings",
+        "description": "bpms.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "bpms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "bpms.settings",
+        "description": "bpms.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'guest.apps.GuestConfig',",
+        "detail": "bpms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "bpms.settings",
+        "description": "bpms.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'guest.apps.GuestConfig',\n    'adminPanel.apps.AdminpanelConfig'\n]",
+        "detail": "bpms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "bpms.settings",
+        "description": "bpms.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'bpms.urls'",
+        "detail": "bpms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "bpms.settings",
+        "description": "bpms.settings",
+        "peekOfCode": "ROOT_URLCONF = 'bpms.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [\n            os.path.join(BASE_DIR, \"pages\")\n            ],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [",
+        "detail": "bpms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "bpms.settings",
+        "description": "bpms.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [\n            os.path.join(BASE_DIR, \"pages\")\n            ],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',",
+        "detail": "bpms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "bpms.settings",
+        "description": "bpms.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'bpms.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "bpms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "bpms.settings",
+        "description": "bpms.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "bpms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "bpms.settings",
+        "description": "bpms.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "bpms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "bpms.settings",
+        "description": "bpms.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [\"staticfiles\"]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field",
+        "detail": "bpms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "bpms.settings",
+        "description": "bpms.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [\"staticfiles\"]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "bpms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "bpms.settings",
+        "description": "bpms.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [\"staticfiles\"]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "bpms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "bpms.settings",
+        "description": "bpms.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [\"staticfiles\"]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "bpms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "bpms.settings",
+        "description": "bpms.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nSTATICFILES_DIRS = [\"staticfiles\"]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "bpms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "bpms.settings",
+        "description": "bpms.settings",
+        "peekOfCode": "STATICFILES_DIRS = [\"staticfiles\"]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "bpms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "bpms.settings",
+        "description": "bpms.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "bpms.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "bpms.urls",
+        "description": "bpms.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include(\"guest.urls\")),\n    path('adminPanel/', include(\"adminPanel.urls\"))\n]",
+        "detail": "bpms.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "bpms.wsgi",
+        "description": "bpms.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "bpms.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "guest.migrations.0001_initial",
+        "description": "guest.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Appointment',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('AptNumber', models.CharField(max_length=80)),",
+        "detail": "guest.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "guest.migrations.0002_remove_appointment_services_appointment_service_and_more",
+        "description": "guest.migrations.0002_remove_appointment_services_appointment_service_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('guest', '0001_initial'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='appointment',\n            name='Services',\n        ),\n        migrations.AddField(",
+        "detail": "guest.migrations.0002_remove_appointment_services_appointment_service_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "guest.migrations.0003_rename_services_service",
+        "description": "guest.migrations.0003_rename_services_service",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('guest', '0002_remove_appointment_services_appointment_service_and_more'),\n    ]\n    operations = [\n        migrations.RenameModel(\n            old_name='Services',\n            new_name='Service',\n        ),\n    ]",
+        "detail": "guest.migrations.0003_rename_services_service",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "guest.migrations.0004_remove_appointment_remarkdate_appointment_done_and_more",
+        "description": "guest.migrations.0004_remove_appointment_remarkdate_appointment_done_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('guest', '0003_rename_services_service'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='appointment',\n            name='RemarkDate',\n        ),\n        migrations.AddField(",
+        "detail": "guest.migrations.0004_remove_appointment_remarkdate_appointment_done_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "guest.migrations.0005_pagedescription_company_name",
+        "description": "guest.migrations.0005_pagedescription_company_name",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('guest', '0004_remove_appointment_remarkdate_appointment_done_and_more'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='pagedescription',\n            name='company_name',\n            field=models.CharField(default='Beauty Parlour', max_length=120),\n        ),",
+        "detail": "guest.migrations.0005_pagedescription_company_name",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "guest.migrations.0006_remove_customer_gender",
+        "description": "guest.migrations.0006_remove_customer_gender",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('guest', '0005_pagedescription_company_name'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='customer',\n            name='Gender',\n        ),\n    ]",
+        "detail": "guest.migrations.0006_remove_customer_gender",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "guest.migrations.0007_alter_customer_phonenumber",
+        "description": "guest.migrations.0007_alter_customer_phonenumber",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('guest', '0006_remove_customer_gender'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='customer',\n            name='PhoneNumber',\n            field=models.CharField(max_length=15),\n        ),",
+        "detail": "guest.migrations.0007_alter_customer_phonenumber",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "guest.migrations.0008_remove_customer_email_remove_customer_name_and_more",
+        "description": "guest.migrations.0008_remove_customer_email_remove_customer_name_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('guest', '0007_alter_customer_phonenumber'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='customer',\n            name='Email',\n        ),",
+        "detail": "guest.migrations.0008_remove_customer_email_remove_customer_name_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "guest.migrations.0009_appointment_accepted",
+        "description": "guest.migrations.0009_appointment_accepted",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('guest', '0008_remove_customer_email_remove_customer_name_and_more'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='appointment',\n            name='accepted',\n            field=models.BooleanField(default=False),\n        ),",
+        "detail": "guest.migrations.0009_appointment_accepted",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerAdmin",
+        "kind": 6,
+        "importPath": "guest.admin",
+        "description": "guest.admin",
+        "peekOfCode": "class CustomerAdmin(admin.ModelAdmin):\n    list_display = ('user', 'PhoneNumber')\nclass ServiceAdmin(admin.ModelAdmin):\n    list_display = ('ServiceName', 'Cost')\nclass AppointmentAdmin(admin.ModelAdmin):\n    list_display = ('AptNumber', 'Name','Email', 'PhoneNumber', 'Service', 'ApplyDate', 'Done', 'Waiting')\nclass InvoiceAdmin(admin.ModelAdmin):\n    list_display = ('UserId', 'ServiceId', 'BillingId', 'PostingDate')\n# admin site register your models here.\nadmin.site.register(Customer, CustomerAdmin)",
+        "detail": "guest.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceAdmin",
+        "kind": 6,
+        "importPath": "guest.admin",
+        "description": "guest.admin",
+        "peekOfCode": "class ServiceAdmin(admin.ModelAdmin):\n    list_display = ('ServiceName', 'Cost')\nclass AppointmentAdmin(admin.ModelAdmin):\n    list_display = ('AptNumber', 'Name','Email', 'PhoneNumber', 'Service', 'ApplyDate', 'Done', 'Waiting')\nclass InvoiceAdmin(admin.ModelAdmin):\n    list_display = ('UserId', 'ServiceId', 'BillingId', 'PostingDate')\n# admin site register your models here.\nadmin.site.register(Customer, CustomerAdmin)\nadmin.site.register(Appointment,AppointmentAdmin)\nadmin.site.register(Service, ServiceAdmin)",
+        "detail": "guest.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentAdmin",
+        "kind": 6,
+        "importPath": "guest.admin",
+        "description": "guest.admin",
+        "peekOfCode": "class AppointmentAdmin(admin.ModelAdmin):\n    list_display = ('AptNumber', 'Name','Email', 'PhoneNumber', 'Service', 'ApplyDate', 'Done', 'Waiting')\nclass InvoiceAdmin(admin.ModelAdmin):\n    list_display = ('UserId', 'ServiceId', 'BillingId', 'PostingDate')\n# admin site register your models here.\nadmin.site.register(Customer, CustomerAdmin)\nadmin.site.register(Appointment,AppointmentAdmin)\nadmin.site.register(Service, ServiceAdmin)\nadmin.site.register(Invoice, InvoiceAdmin)\nadmin.site.register(PageDescription)",
+        "detail": "guest.admin",
+        "documentation": {}
+    },
+    {
+        "label": "InvoiceAdmin",
+        "kind": 6,
+        "importPath": "guest.admin",
+        "description": "guest.admin",
+        "peekOfCode": "class InvoiceAdmin(admin.ModelAdmin):\n    list_display = ('UserId', 'ServiceId', 'BillingId', 'PostingDate')\n# admin site register your models here.\nadmin.site.register(Customer, CustomerAdmin)\nadmin.site.register(Appointment,AppointmentAdmin)\nadmin.site.register(Service, ServiceAdmin)\nadmin.site.register(Invoice, InvoiceAdmin)\nadmin.site.register(PageDescription)\nadmin.site.register(Contact)",
+        "detail": "guest.admin",
+        "documentation": {}
+    },
+    {
+        "label": "GuestConfig",
+        "kind": 6,
+        "importPath": "guest.apps",
+        "description": "guest.apps",
+        "peekOfCode": "class GuestConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'guest'",
+        "detail": "guest.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "kind": 6,
+        "importPath": "guest.models",
+        "description": "guest.models",
+        "peekOfCode": "class Service(models.Model):\n    ServiceName = models.CharField(max_length=200)\n    Cost = models.FloatField()\n    CreationDate = models.DateTimeField(auto_now=True)\n    def __str__(self):\n        return self.ServiceName\n# appointments\nclass Appointment(models.Model):\n    AptNumber = models.CharField(max_length=80)\n    Name = models.CharField(max_length= 120)",
+        "detail": "guest.models",
+        "documentation": {}
+    },
+    {
+        "label": "Appointment",
+        "kind": 6,
+        "importPath": "guest.models",
+        "description": "guest.models",
+        "peekOfCode": "class Appointment(models.Model):\n    AptNumber = models.CharField(max_length=80)\n    Name = models.CharField(max_length= 120)\n    Email = models.EmailField(max_length=120)\n    PhoneNumber = models.CharField(max_length=15)\n    AptDate = models.DateTimeField(auto_now=True)\n    Service = models.ForeignKey(to = Service, on_delete=models.CASCADE)\n    ApplyDate = models.DateTimeField(auto_now=True)\n    AptStrTime = models.CharField(max_length=30, default=\"\")\n    Remark = models.CharField(max_length=250, default = \"\")",
+        "detail": "guest.models",
+        "documentation": {}
+    },
+    {
+        "label": "Customer",
+        "kind": 6,
+        "importPath": "guest.models",
+        "description": "guest.models",
+        "peekOfCode": "class Customer(models.Model):\n    user = models.ForeignKey(to=User, on_delete=models.CASCADE)\n    PhoneNumber = models.CharField(max_length = 15)\n    CreationDate = models.DateTimeField(auto_now=True)\n# invoice\nclass Invoice(models.Model):\n    UserId = models.ForeignKey(to=Customer, on_delete=models.CASCADE)\n    ServiceId = models.ForeignKey(to=Service, on_delete=models.CASCADE)\n    BillingId = models.CharField(max_length=10)\n    PostingDate = models.DateTimeField(auto_now=True)",
+        "detail": "guest.models",
+        "documentation": {}
+    },
+    {
+        "label": "Invoice",
+        "kind": 6,
+        "importPath": "guest.models",
+        "description": "guest.models",
+        "peekOfCode": "class Invoice(models.Model):\n    UserId = models.ForeignKey(to=Customer, on_delete=models.CASCADE)\n    ServiceId = models.ForeignKey(to=Service, on_delete=models.CASCADE)\n    BillingId = models.CharField(max_length=10)\n    PostingDate = models.DateTimeField(auto_now=True)\n# company contact details    \nclass Contact(models.Model):\n    Email = models.EmailField(max_length=200)\n    PhoneNumber = models.CharField(max_length=15)\n    Location = models.CharField(max_length=200)",
+        "detail": "guest.models",
+        "documentation": {}
+    },
+    {
+        "label": "Contact",
+        "kind": 6,
+        "importPath": "guest.models",
+        "description": "guest.models",
+        "peekOfCode": "class Contact(models.Model):\n    Email = models.EmailField(max_length=200)\n    PhoneNumber = models.CharField(max_length=15)\n    Location = models.CharField(max_length=200)\n    MapLocation = models.CharField(max_length=500)\n# page ad like descriptions    \nclass PageDescription(models.Model):\n    company_name = models.CharField(max_length=120, default = \"Beauty Parlour\")\n    front_one = models.CharField(max_length=500)\n    front_two = models.CharField(max_length=500)",
+        "detail": "guest.models",
+        "documentation": {}
+    },
+    {
+        "label": "PageDescription",
+        "kind": 6,
+        "importPath": "guest.models",
+        "description": "guest.models",
+        "peekOfCode": "class PageDescription(models.Model):\n    company_name = models.CharField(max_length=120, default = \"Beauty Parlour\")\n    front_one = models.CharField(max_length=500)\n    front_two = models.CharField(max_length=500)\n    front_title_one = models.CharField(max_length=500)\n    front_title_two = models.CharField(max_length=500)\n    footer_one = models.CharField(max_length=500)\n    about_details = models.CharField(max_length= 500, default=\"\")\n    service_details = models.CharField(max_length=500, default = \"\")\n    contact_details = models.CharField(max_length=500, default = \"\")",
+        "detail": "guest.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_id",
+        "kind": 2,
+        "importPath": "guest.models",
+        "description": "guest.models",
+        "peekOfCode": "def get_id(size):\n    size = int(size)\n    chars = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','1','2','3','4','5','6','7','8','9','0','@','#','$','&']\n    randId = \"\"\n    for i in range(1, size):\n        randId += chars[random.randint(0, len(chars))]\n    return randId\n# Services\nclass Service(models.Model):\n    ServiceName = models.CharField(max_length=200)",
+        "detail": "guest.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "guest.urls",
+        "description": "guest.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', home_view),\n    path('login/', login_view),\n    path('logout/', instant_logout),\n    path('signup/', signup_view),\n    path('home/', home_view),\n    path('about/', about_view),\n    path('contact/', contact_view),\n    path('service/', service_view),\n    path('thanks/', thanks_view)",
+        "detail": "guest.urls",
+        "documentation": {}
+    },
+    {
+        "label": "home_view",
+        "kind": 2,
+        "importPath": "guest.views",
+        "description": "guest.views",
+        "peekOfCode": "def home_view(request):\n    context = {\n        'marketing': get_page_details(),\n        'contacts': get_contact_details(),\n        'services': get_service_details()\n    }\n    if request.POST:\n        name = request.POST['name']\n        email = request.POST['email']\n        service = request.POST['service']",
+        "detail": "guest.views",
+        "documentation": {}
+    },
+    {
+        "label": "about_view",
+        "kind": 2,
+        "importPath": "guest.views",
+        "description": "guest.views",
+        "peekOfCode": "def about_view(request):\n    context = {\n        'marketing': get_page_details(),\n        'contacts': get_contact_details()\n    }\n    return render(request, \"guest/about.html\", context)\ndef contact_view(request):\n    context = {\n        'marketing': get_page_details(),\n        'contacts': get_contact_details()",
+        "detail": "guest.views",
+        "documentation": {}
+    },
+    {
+        "label": "contact_view",
+        "kind": 2,
+        "importPath": "guest.views",
+        "description": "guest.views",
+        "peekOfCode": "def contact_view(request):\n    context = {\n        'marketing': get_page_details(),\n        'contacts': get_contact_details()\n    }\n    return render(request, \"guest/contact.html\", context)\ndef service_view(request):\n    context = {\n        'marketing': get_page_details(),\n        'contacts': get_contact_details(),",
+        "detail": "guest.views",
+        "documentation": {}
+    },
+    {
+        "label": "service_view",
+        "kind": 2,
+        "importPath": "guest.views",
+        "description": "guest.views",
+        "peekOfCode": "def service_view(request):\n    context = {\n        'marketing': get_page_details(),\n        'contacts': get_contact_details(),\n        'services': get_service_details()\n    }\n    return render(request, \"guest/services.html\", context)\ndef thanks_view(request):\n    context = {\n        'marketing': get_page_details(),",
+        "detail": "guest.views",
+        "documentation": {}
+    },
+    {
+        "label": "thanks_view",
+        "kind": 2,
+        "importPath": "guest.views",
+        "description": "guest.views",
+        "peekOfCode": "def thanks_view(request):\n    context = {\n        'marketing': get_page_details(),\n        'contacts': get_contact_details()\n    }\n    return render(request, \"guest/thank-you.html\", context)\ndef login_view(request):\n    if request.POST:\n        name = request.POST[\"name\"]\n        pswd = request.POST[\"pswd1\"]",
+        "detail": "guest.views",
+        "documentation": {}
+    },
+    {
+        "label": "login_view",
+        "kind": 2,
+        "importPath": "guest.views",
+        "description": "guest.views",
+        "peekOfCode": "def login_view(request):\n    if request.POST:\n        name = request.POST[\"name\"]\n        pswd = request.POST[\"pswd1\"]\n        usr = authenticate(request, username = name, password = pswd)\n        if usr is not None:\n            login(request, usr)\n            return redirect(\"/home\")\n        else:\n            print(\"*****Wrong vals******\")",
+        "detail": "guest.views",
+        "documentation": {}
+    },
+    {
+        "label": "instant_logout",
+        "kind": 2,
+        "importPath": "guest.views",
+        "description": "guest.views",
+        "peekOfCode": "def instant_logout(request):\n    logout(request)\n    return redirect(\"/login\")\ndef signup_view(request):\n    if request.POST:\n        usr_name = request.POST['name']\n        usr_email = request.POST['email']\n        usr_phone = request.POST['phone']\n        usr_pass = request.POST['pswd1']\n        create_customer(usr_name, usr_email, usr_phone, usr_pass)",
+        "detail": "guest.views",
+        "documentation": {}
+    },
+    {
+        "label": "signup_view",
+        "kind": 2,
+        "importPath": "guest.views",
+        "description": "guest.views",
+        "peekOfCode": "def signup_view(request):\n    if request.POST:\n        usr_name = request.POST['name']\n        usr_email = request.POST['email']\n        usr_phone = request.POST['phone']\n        usr_pass = request.POST['pswd1']\n        create_customer(usr_name, usr_email, usr_phone, usr_pass)\n    context = {\n        'marketing': get_page_details(),\n        'showNav': True",
+        "detail": "guest.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_page_details",
+        "kind": 2,
+        "importPath": "guest.views",
+        "description": "guest.views",
+        "peekOfCode": "def get_page_details():\n    marketing = PageDescription.objects.all()\n    return marketing\ndef get_contact_details():\n    contacts = Contact.objects.all()\n    return contacts\ndef get_service_details():\n    services = Service.objects.all()\n    return services\ndef create_appointment(name, email, phone, service, apt_date):",
+        "detail": "guest.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_contact_details",
+        "kind": 2,
+        "importPath": "guest.views",
+        "description": "guest.views",
+        "peekOfCode": "def get_contact_details():\n    contacts = Contact.objects.all()\n    return contacts\ndef get_service_details():\n    services = Service.objects.all()\n    return services\ndef create_appointment(name, email, phone, service, apt_date):\n    srvc = Service.objects.get(id = int(service))\n    apt = Appointment.objects.create(AptNumber = get_id(5), Name = name, Email = email, PhoneNumber = phone, Service = srvc, AptStrTime = apt_date)\n    apt.save()",
+        "detail": "guest.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_service_details",
+        "kind": 2,
+        "importPath": "guest.views",
+        "description": "guest.views",
+        "peekOfCode": "def get_service_details():\n    services = Service.objects.all()\n    return services\ndef create_appointment(name, email, phone, service, apt_date):\n    srvc = Service.objects.get(id = int(service))\n    apt = Appointment.objects.create(AptNumber = get_id(5), Name = name, Email = email, PhoneNumber = phone, Service = srvc, AptStrTime = apt_date)\n    apt.save()\n    return True\ndef create_customer(name, email, phone, password):\n    try:",
+        "detail": "guest.views",
+        "documentation": {}
+    },
+    {
+        "label": "create_appointment",
+        "kind": 2,
+        "importPath": "guest.views",
+        "description": "guest.views",
+        "peekOfCode": "def create_appointment(name, email, phone, service, apt_date):\n    srvc = Service.objects.get(id = int(service))\n    apt = Appointment.objects.create(AptNumber = get_id(5), Name = name, Email = email, PhoneNumber = phone, Service = srvc, AptStrTime = apt_date)\n    apt.save()\n    return True\ndef create_customer(name, email, phone, password):\n    try:\n        if_exist = User.objects.get(username = name)\n        print(\"User Exist\")\n    except:",
+        "detail": "guest.views",
+        "documentation": {}
+    },
+    {
+        "label": "create_customer",
+        "kind": 2,
+        "importPath": "guest.views",
+        "description": "guest.views",
+        "peekOfCode": "def create_customer(name, email, phone, password):\n    try:\n        if_exist = User.objects.get(username = name)\n        print(\"User Exist\")\n    except:\n        new_user = create_new_user(name, email, password)\n        new_customer = Customer.objects.create(user = new_user, PhoneNumber = phone)\n        new_customer.save()\n        return redirect(\"/login\")\ndef create_new_user(name, email, password):",
+        "detail": "guest.views",
+        "documentation": {}
+    },
+    {
+        "label": "create_new_user",
+        "kind": 2,
+        "importPath": "guest.views",
+        "description": "guest.views",
+        "peekOfCode": "def create_new_user(name, email, password):\n    new_user = User.objects.create_user(username = name, password = password, email = email)\n    new_user.save()\n    return new_user",
+        "detail": "guest.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'bpms.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

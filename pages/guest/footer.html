@@ -1,0 +1,64 @@
+
+ <footer class="ftco-footer ftco-section">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-md">
+            <div class="ftco-footer-widget mb-4">
+              <h2 class="ftco-heading-2 logo">BPMS</h2>
+
+              <p> 
+                {%for para in marketing%}
+                {{para.footer_one}}
+              {%endfor%}
+            </p>
+            
+            </div>
+          </div>
+         
+          <div class="col-md" style="padding-left: 150px">
+             <div class="ftco-footer-widget mb-4">
+              <h2 class="ftco-heading-2">Links</h2>
+              <ul class="list-unstyled">
+                <li><a href="/home" class="py-2 d-block">Home</a></li>
+                <li><a href="/about" class="py-2 d-block">About</a></li>
+                <li><a href="/service" class="py-2 d-block">Services</a></li>
+               
+                <li><a href="/admin" class="py-2 d-block">Admin</a></li>
+                <li><a href="/contact" class="py-2 d-block">Contact</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md">
+            <div class="ftco-footer-widget mb-4">
+            	<h2 class="ftco-heading-2">Have a Questions?</h2>
+            	<div class="block-23 mb-3">
+                
+	              <ul>
+	                <li><span class="icon icon-map-marker"></span><span class="text">
+                    {%for para in contacts%}
+                      {{para.Location}}
+                    {%endfor%}
+                  </span></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">
+                    {%for para in contacts%}
+                      {{para.PhoneNumber}}
+                    {%endfor%}
+                  </span></a></li>
+	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">
+                    {%for para in contacts%}
+                      {{para.Email}}
+                    {%endfor%}
+                  </span></a></li>
+	              </ul>
+	            </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12 text-center">
+
+            <p>{%for info in marketing%} {{info.company_name}} {% endfor %}</p>
+          </div>
+        </div>
+      </div>
+    </footer>
